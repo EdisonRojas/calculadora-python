@@ -1,3 +1,3 @@
 # calculadora-python
 
-Programa en Python que emula una calculadora
+Programa en Python que emula una calculadora muy basica
